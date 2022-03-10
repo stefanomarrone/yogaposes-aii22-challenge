@@ -2,9 +2,17 @@
 
 This repository contains the data related to the AII 2022 Challenge. 
 
-##### Table of Contents  
-[About the conference](#About the conference)  
-[Emphasis](#emphasis)
+Table of Contents
+=================
+
+* [Yogaposes AII22 Challenge](#yogaposes-aii22-challenge)
+   * [About the conference](#about-the-conference)
+   * [About the problem](#about-the-problem)
+   * [About the dataset](#about-the-dataset)
+   * [Challenge](#challenge)
+   * [Reference](#reference)
+   * [Challenge organizers](#challenge-organizers)
+
 
 ## About the conference
 This 2nd International Conference on Applied Intelligence and Informatics – [AII2022](https://www.aii2022.org) provides a premier international forum to bring together researchers and practitioners from diverse domains for the sharing of cutting-edge research results obtained through the application of intelligence and/or informatics to solve problems otherwise would not have been possible to solve. AII2022 also fosters exchange and dissemination of innovative and practical development of methodologies and technologies with real-life applications. AII2022 asks all authors to make their dataset and methodology open access for the community usage. This is to: **Foster the Reproducibility of Scientific Results**, hence is the theme of the conference. The conference will be held in Reggio Calabria, a beautiful seaside city located in the southernmost tip of Italy.
